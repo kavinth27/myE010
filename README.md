@@ -1,28 +1,7 @@
 # ![](https://www.lpice.eu/fileadmin/_processed_/csm_LinuxEssentials-01_0ab118aa19.jpg) myE010 - Linux Essentials Exam 010
 
-Beispiel für einen Aufbau einer Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus einem oder beiden LPI Examen
+Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus einem oder beiden LPI Examen
 
-## Einrichtung forken dieses GitHub Repository für Dokumentation (Kapitel kann in der Kopie gelöscht werden)
-
-Als erster Schritt muss ein GitHub-Account eingerichtet werden. Dieser dient uns später als "Cloud-Speicher" unserer Dokumentation und weiteren Dateien.
-
-Folgende Arbeiten müssen gemacht werden:
-
-**Account erstellen**
-
-1. Auf www.github.com ein Benutzerkonto erstellen (Angabe von Username, E-Mail und Passwort)
-2. E-Mail zur Verifizierung des Kontos bestätigen und anschliessend auf GitHub anmelden
-
-**Forken dieses Repositories**
-
-1. Auf Repository [myE010](https://github.com/w901-fr19-mi/myE010) wechseln.
-2. Klicken Sie oben rechts auf der Seite auf `Fork` .
-
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-
-Das ist es! Jetzt haben Sie einen `Fork` (Kopie) des Original myE010 Repository und können dessen Inhalte verändern.
-
-Weitere Möglichkeiten siehe [Modul M300 - 10 Toolumgebung](https://github.com/mc-b/M300/tree/master/10-Toolumgebung)
 
 ## Dokumentation (Kapitel kann in der Kopie gelöscht werden)
 
