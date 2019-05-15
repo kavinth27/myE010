@@ -84,7 +84,7 @@ Weitere Informationen siehe [Modul M300 - 20 Infrastruktur-Automatisierung](http
 | 03.07.19 | Sommersporttage | - |
 |          | Total Punkte | 24 (31) !
 
-Kapitel aus E010 sind einzeln erarbeitet worden. Kapitel aus E701 in der Gruppe mit ....
+Kapitel aus E010 sind einzeln erarbeitet worden.
 
 ## Dokumention des Lern- und Entwicklungsprozesses
 ***
